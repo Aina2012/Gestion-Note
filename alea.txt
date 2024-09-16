@@ -1,0 +1,20 @@
+-----ALEA-----
+=> resaka insrcrit  sa ts inscrit  (cote admis)
+    rehf inscrit de manana note rehf nanao examen 
+    rehf tsy inscrit izy de tsy manana note na nanao examen ary 
+
+=>tableau de bord   (cote admis)
+    -total d'etudaint 
+    -liste et total des etudiant admis au licences 
+    -liste et total des etudiant ajournee 
+    -statistique 
+
+=>export pdf 
+    -tous les note de l'annee
+
+=> tableau de bord (cote etudiant)
+    -description (s'il  a  obtenu de licence ou pas  )
+    -liste des matiere a rattrape / semestre
+    
+
+alaina daoly lou ny note de aveo jerena ny somme_credit obtenu rehtra rah mahatratra 180 de mahazo licence izy rah ampy 180 ny credit rehtra

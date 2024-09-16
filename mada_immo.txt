@@ -1,0 +1,13 @@
+#profil admin
+    -connecte (email-password)
+    -ajouter de bien
+    -commission azo par bien
+
+#proprietaire
+    -connecte(numero telephone)
+    -liste de ce bien
+    -chiffre d'affaire entre de date
+
+#client
+    -connecte(email)
+    -payement de loue entre de date
